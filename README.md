@@ -4,3 +4,5 @@ this Script shows how your and the server's Temperature is
 -- Made by Muddi
 -- Fremwork - Vorp-Core - RedemRP
 FREE TO USE
+
+WORKS ONLY IN REDM
